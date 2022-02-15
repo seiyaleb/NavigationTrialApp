@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">7の倍数チェック</string>
+    <string name="bt_judge">判断</string>
+    <string name="bt_back">戻る</string>
+    <string name="tv_yes">YES</string>
+    <string name="tv_no">NO</string>
+    <string name="et_hint">整数を入力</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
